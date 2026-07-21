@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Баннер -->
-  <img src="banner.jpg" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(27, 77, 62, 0.15);">
+  <img src="topper.jpg" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(27, 77, 62, 0.15);">
 
   <br><br>
 
@@ -13,7 +13,7 @@
   <br><br>
 
   <!-- Девиз -->
-  <h3 align="center" style="color: #1B4D3E;"><i>"[ВСТАВЬТЕ СЮДА ВЫБРАННЫЙ ДЕВИЗ]"</i></h3>
+  <h3 align="center" style="color: #1B4D3E;"><i>"Smartphones now, what's smarter later?"</i></h3>
 
   <br>
 
