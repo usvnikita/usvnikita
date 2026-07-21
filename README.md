@@ -1,18 +1,19 @@
 <div align="center">
 
-  <!-- Баннер: Укажите точное имя файла вашей картинки -->
-  <img src="topper.jpg" alt="CannaTech Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(16, 185, 129, 0.3);">
+  <!-- Баннер -->
+  <img src="banner.jpg" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(27, 77, 62, 0.15);">
 
   <br><br>
 
-  <!-- Динамическое приветствие с элегантным шрифтом и зеленым цветом -->
+  <!-- Приветствие: шрифт Dancing Script, глубокий благородный зеленый цвет -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&italic=true&size=24&pause=1000&color=10B981&center=true&vCenter=true&width=800&lines=Every+successfully+tested,+working+code+brings+true+satisfaction+to+me." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=1B4D3E&center=true&vCenter=true&width=800&lines=Every+successfully+tested,+working+code+brings+true+satisfaction+to+me." alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  <h3 align="center"><i>Cultivating Code. Automating Reality.</i></h3>
+  <!-- Девиз -->
+  <h3 align="center" style="color: #1B4D3E;"><i>"[ВСТАВЬТЕ СЮДА ВЫБРАННЫЙ ДЕВИЗ]"</i></h3>
 
   <br>
 
@@ -34,9 +35,9 @@
 
   <br><br>
 
-  <!-- Статистика профиля. ВНИМАНИЕ: ЗАМЕНИТЕ YOUR_USERNAME НА ВАШ НИКНЕЙМ -->
+  <!-- Статистика профиля: Светлая тема, темно-зеленый текст и иконки. ВАЖНО: замените YOUR_USERNAME на ваш никнейм -->
   <a href="https://github.com/usvnikita">
-    <img src="https://github-readme-stats.vercel.app/api?username=usvnikita&show_icons=true&hide_border=true&bg_color=0D1117&title_color=10B981&text_color=9CA3AF&icon_color=8B5CF6" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=usvnikita&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=1B4D3E&text_color=333333&icon_color=1B4D3E" alt="GitHub Stats" />
   </a>
 
 </div>
