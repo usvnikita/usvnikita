@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Баннер -->
-  <img src="topper.jpg" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(27, 77, 62, 0.15);">
+  <img src="banner.png" alt="Banner" width="100%" style="border-radius: 12px; box-shadow: 0px 4px 15px rgba(27, 77, 62, 0.15);">
 
   <br><br>
 
