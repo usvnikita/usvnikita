@@ -33,6 +33,4 @@
     <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
   </p>
 
-  <br><br>
-
 </div>
