@@ -35,9 +35,4 @@
 
   <br><br>
 
-  <!-- Статистика профиля: Светлая тема, темно-зеленый текст и иконки. ВАЖНО: замените YOUR_USERNAME на ваш никнейм -->
-  <a href="https://github.com/usvnikita">
-    <img src="https://github-readme-stats.vercel.app/api?username=usvnikita&show_icons=true&hide_border=true&bg_color=FAFAFA&title_color=1B4D3E&text_color=333333&icon_color=1B4D3E" alt="GitHub Stats" />
-  </a>
-
 </div>
